@@ -1,3 +1,3 @@
-#Undestand Next.JS
+# Understand Next.JS
 
 * Install Next.JS
